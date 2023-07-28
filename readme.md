@@ -17,13 +17,13 @@ This is as far as I was able to get, but in theory the rest of the steps would b
 5. Export it, and select the dataset variables
 6. And then open VSCODE and run an image from the test section!
 
-Some of the errors I had
-nano wouldn't connect to wifi --> got a new wifi adapter
-nano wouldn't connect to computer --> got a new nano
-new nano wouldn't connect to computer --> got a new computer
-new nano still wouldn't connect to new computer --> got a usb cord
-new nano with new cord still wouldn't connect to new computer --> got a new memory card
-which enabled it to finally connect back
+Some of the errors I had:
+nano wouldn't connect to wifi --> got a new wifi adapter,
+nano wouldn't connect to computer --> got a new nano,
+new nano wouldn't connect to computer --> got a new computer,
+new nano still wouldn't connect to new computer --> got a usb cord,
+new nano with new cord still wouldn't connect to new computer --> got a new memory card,
+-- which enabled it to finally connect back --
 wouldn't run the tarining script --> found broken packages
 broken packages were caused by dependency hell
 tried to fix dependency hell --> by trying to install correct version of jetpack
